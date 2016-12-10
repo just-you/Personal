@@ -249,7 +249,7 @@ li.s10 {width: 7.714285714285714%;}
 	border-radius:3px;
 } 
 #contactform input[type="submit"]:hover {background: #000;}
-.required {color: red;}
+.required {color: #176cf8;}
 #required {float: left; margin-top: 10px; color: #bbb; display: none;}
 
 #contactform input.error, 
