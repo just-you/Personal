@@ -166,7 +166,7 @@ ul#recommends li > h3 {background: #fafafa; color: #ccc; padding-left: 5px; line
 /*---AS SEEN ON STUFF------*/
 /* -----------------------*/
 ul#seenOn li {display: inline-block; position: relative; border: 1px solid #eee; margin-right: 2px; height: 36px; border-radius: 4px; line-height: 30px;}
-ul#seenOn li img {height:30px; width:auto; padding: 3px;}
+ul#seenOn li img {height:80px; width:auto; padding: 3px;}
 
 /* ------------------------*/
 /*---SKILLS STUFF---------*/
